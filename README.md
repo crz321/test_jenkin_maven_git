@@ -1,0 +1,2 @@
+# test_jenkin_maven_git
+测试jenkins和maven和git组合使用实现持续集成
